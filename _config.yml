@@ -1,8 +1,8 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Insouciant.
+title:            The Morning Writer
+tagline:          Morning Pages. Every Day.
+description:      Morning Pages For Everyone.
 #Comment out url when working locally to resolve base urls correctly
-url: http://jekyll.gtat.me
+url: https://www.themorningwriter.com
 
 # Owner/author information
 owner:
@@ -49,7 +49,7 @@ kramdown:
     coderay_css: class
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   /blog/:title
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
