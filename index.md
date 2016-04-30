@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Recent Posts"
-tags: [Jekyll, theme, responsive, blog, template]
+title: "Morning Pages"
+tags: [morning pages, writing, blog, template]
 image:
   feature: typewriter.jpg
 ---
