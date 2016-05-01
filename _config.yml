@@ -12,7 +12,7 @@ owner:
   email:          info@themorningwriter.com
   # Plug in your disqus shortname!
   
-  disqus_shortname: themorningwriter
+  disqus: themorningwriter
 
 # Links to include in top navigation
 # For external links add external: true
