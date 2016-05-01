@@ -46,6 +46,8 @@ kramdown:
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /blog/:title
+disqus_shortname: themorningwriter
+google_analytics:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
