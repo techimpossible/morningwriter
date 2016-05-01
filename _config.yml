@@ -4,9 +4,6 @@ description:      Morning Pages For Everyone.
 #Comment out url when working locally to resolve base urls correctly
 url: https://www.themorningwriter.com
 
-disqus_shortname: themorningwriter
-google_analytics:
-
 # Owner/author information
 owner:
   name:           The Morning Writer
@@ -15,6 +12,7 @@ owner:
   email:          info@themorningwriter.com
   # Plug in your disqus shortname!
   
+  disqus_shortname: themorningwriter
 
 # Links to include in top navigation
 # For external links add external: true
