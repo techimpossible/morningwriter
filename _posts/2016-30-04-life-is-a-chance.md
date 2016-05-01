@@ -1,5 +1,6 @@
 ---
 layout: post-no-feature
+date: 30/04/2016
 title: "Life is a chance. Love is infinity. Grace is reality."
 description: "The way we look at life is the key to happiness."
 comments: true
