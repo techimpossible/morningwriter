@@ -8,6 +8,6 @@ image:
   feature: soft-trees.jpg
 ---
 
-The morning writer is a project on writing Morning Pages and helping other along the way to improve the life by reflecting on their day and pruning as required.
+The morning writer is a project on writing Morning Pages and helping others along the way to improve their life by reflecting on their day and pruning as required.
 
 Infused with Yogi Tea and inspired by writing prompts from the tea tags and other places.
