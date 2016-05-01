@@ -9,4 +9,8 @@
         <loc>http://localhost:4000/blog/life-is-a-chance</loc>
     </url>
     
+    <url>
+        <loc>http://localhost:4000/blog/by-honouring-your-words</loc>
+    </url>
+    
 </urlset>
