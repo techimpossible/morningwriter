@@ -4,6 +4,9 @@ description:      Morning Pages For Everyone.
 #Comment out url when working locally to resolve base urls correctly
 url: https://www.themorningwriter.com
 
+disqus_shortname: themorningwriter
+google_analytics:
+
 # Owner/author information
 owner:
   name:           The Morning Writer
@@ -46,8 +49,7 @@ kramdown:
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /blog/:title
-disqus_shortname: themorningwriter
-google_analytics:
+
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
