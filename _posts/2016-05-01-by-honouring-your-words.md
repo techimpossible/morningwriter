@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "By Hounoring Your Words, you are honoured"
+title: "By Honouring Your Words, you are honoured"
 description: "Think before you speak and don’t speak before you have a sense of the weight of your words."
 comments: true
 category: articles
