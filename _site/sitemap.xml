@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://www.themorningwriter.com</loc>
+        <loc>http://localhost:4000</loc>
     </url>
     
     
     <url>
-        <loc>https://www.themorningwriter.com/blog/post-with-feature</loc>
+        <loc>http://localhost:4000/blog/life-is-a-chance</loc>
     </url>
     
 </urlset>
