@@ -13,7 +13,7 @@ owner:
   # Plug in your disqus shortname!
   
   disqus: themorningwriter
-  google_analytics: UA-77168927-1
+
 
 # Links to include in top navigation
 # For external links add external: true
