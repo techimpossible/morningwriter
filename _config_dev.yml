@@ -18,6 +18,8 @@ owner:
 links:
   - title: About
     url: /about
+  - title: Archive
+    url: /archive   
   - title: Donate
     url: https://donorbox.org/the-morning-writer
     external: true
