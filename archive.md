@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-feature
 title: archive
 permalink: /archive/index.html
 excerpt: "An archive of articles sorted by date."
