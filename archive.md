@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: post
 title: archive
 permalink: /archive/index.html
 excerpt: "An archive of articles sorted by date."
@@ -7,7 +7,6 @@ title: Morning Pages List
 tags: [Morning Pages]
 description: "An archive of pages sorted by date."
 ---
-
 
 {% for post in site.posts  %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
