@@ -17,9 +17,7 @@ owner:
 # For external links add external: true
 links:
   - title: About
-    url: /about
-  - title: Archive
-    url: /archive   
+    url: /about 
   - title: Donate
     url: https://donorbox.org/the-morning-writer
     external: true
