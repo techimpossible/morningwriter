@@ -15,7 +15,7 @@ owner:
   disqus: themorningwriter
 
 analytics:
-  provider               : true # false (default), "google", "google-universal", "custom"
+  provider               : google # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : UA-77168927-1
 
