@@ -18,7 +18,7 @@ Manners are the what separates us from cannibals, not animals. Animals have mann
 
 You can tell if someone is a narcissist and self-centred even before they speak. It is amazing how we don’t pay any attention to what we project to others through our behaviour. We are taught “good manners” from a young age and most certainly in school. It almost always revolve around being quiet, doing your job and not saying anything more than you have been asked.
 
-Freedom of expression plays a role in how develop manners. The how is somewhat debatable when the schooling establishment engineers into our brain, through repetition and scoring systems, an acceptable school of thought, that we translate later in life as justified behaviour. That drives us and develops our behaviours and mannerisms.
+Freedom of expression plays a role in how we develop manners. The how is somewhat debatable when the schooling establishment engineers into our brain, through repetition and scoring systems, an acceptable school of thought, that we translate later in life as justified behaviour. That drives us and develops our behaviours and mannerisms.
 
 Concepts like, love, compassion, grace, active listening are low in the schooling system and thus instead instil us with a set of mannerisms equivalent of machine logic.
 
