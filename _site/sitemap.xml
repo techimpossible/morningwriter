@@ -6,6 +6,10 @@
     
     
     <url>
+        <loc>http://localhost:4000/blog/compassion-has-no-limit</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/blog/by-honouring-your-words</loc>
     </url>
     
