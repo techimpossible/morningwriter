@@ -30,7 +30,6 @@
 -->
 
 
-
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ site.url }}/assets/css/i.css">
 
@@ -54,9 +53,6 @@
       <div class="wrap">
         <hgroup>
           <h1><a href="/">{{ site.title }}</a></h1>
-                {% if jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
         </hgroup>
         <a href="#nav" class="menu"><span class='icons'>☰</span></a>
         <nav role="navigation">
@@ -65,10 +61,10 @@
               <a href="/" title="{{ site.title }}">Home</a>
             </li>
             
+            {% include scripts.html %}
             {% for link in site.links %}
                 <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
             {% endfor %}
-
           </ul>
         </nav>
       </div>
