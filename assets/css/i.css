@@ -847,7 +847,7 @@ footer section {
   zoom: 1;
 }
 footer small {
-  font-size: 12px;
+  font-size: 14px;
   text-align: center;
   display: block;
   width: 100%;
@@ -855,7 +855,7 @@ footer small {
   bottom: 8px;
   font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
   text-transform: uppercase;
-  color: rgba(249, 249, 249, 0.1);
+  color: white;
 }
 footer small a {
   color: rgba(249, 249, 249, 0.3);
