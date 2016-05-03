@@ -54,6 +54,9 @@
       <div class="wrap">
         <hgroup>
           <h1><a href="/">{{ site.title }}</a></h1>
+                {% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
         </hgroup>
         <a href="#nav" class="menu"><span class='icons'>☰</span></a>
         <nav role="navigation">
@@ -69,9 +72,4 @@
           </ul>
         </nav>
       </div>
-      
-      {% if jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
-      
     </header>
