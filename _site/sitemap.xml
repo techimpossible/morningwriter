@@ -6,6 +6,10 @@
     
     
     <url>
+        <loc>http://localhost:4000/blog/where-there-is-love</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/blog/let-your-manners-speak-for-you</loc>
     </url>
     
