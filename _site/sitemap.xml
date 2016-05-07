@@ -6,6 +6,10 @@
     
     
     <url>
+        <loc>http://localhost:4000/blog/act-don't-react</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/blog/all-despair-is-followed-by-hope</loc>
     </url>
     
