@@ -38,4 +38,4 @@ As Dr. Wayne Dyer’s teacher responded when asked what was real, he said:
 
  > Real is that which never changes
 
- We have been in many bodies since childhood and we are going to be in many more as we grow. What is real is our soul. Honour it.
+ We have been in many bodies since childhood and we are going to be in many more as we grow. What is real is your soul. Honour it.
