@@ -6,7 +6,7 @@ comments: true
 category: articles
 ---
 
-Stress, anxiety and fear of what they day might bring is not a healthy way to lead your life. Your attitude towards life during our waking moments, from that very first moment of opening your eyes in the morning, can have significant life-changing impact. Let the very first thoughts and words that ensue and emanate from your heart and mind to be “Thank you”. You are being grateful for being given another day, with which to make something of it that wouldn’t have been without you.
+Stress, anxiety and fear of what the day might bring is not a healthy way to lead your life. Your attitude towards life during our waking moments, from that very first moment of opening your eyes in the morning, can have significant life-changing impact. Let the very first thoughts and words that ensue and emanate from your heart and mind to be “Thank you”. You are being grateful for being given another day, with which to make something of it that wouldn’t have been without you.
 
 The notion of taking things for granted is an epidemic that affects everyone on this planet and extends from the material to the spiritual realm. We have grown up with a false sense of entitlement to things that will not leave us any better off having acquired them. The sentence I’ve heard so many times and probably said myself at some points in my life, “I just want to know what I am entitled to, nothing more, nothing less”.
 
