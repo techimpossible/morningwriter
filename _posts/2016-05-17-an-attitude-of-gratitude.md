@@ -30,6 +30,4 @@ Doors are opening all the time, but we can’t see them, because we are so fixat
 
 Our mind starts seeing connections and coincidence and synchronicity appear in our life. We start anticipating these events and look forward to what each day will bring.
 
-> If you change the way you look at things, the things you look at change.
-
-Dr. Wayne Dyer
+> If you change the way you look at things, the things you look at change. - Dr. Wayne Dyer
