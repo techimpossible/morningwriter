@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "An attitude of gratitude brings opportunities"
-description: "If you change the way you look at things, the things you look at change.
+description: "If you change the way you look at things, the things you look at change"
 comments: true
 category: articles
 ---
