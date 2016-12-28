@@ -10,4 +10,4 @@ published: true
 
 >The quest for purpose and meaning in the afternoon of our life is unique for everyone and is a journey that we travel alone but collectively we all arrive to the beginning of life.
 
-	Learning how to set goals, dream, manifest and take action towards the direction of what is your purpose during this time on earth.
+Learning how to set goals, dream, manifest and take action towards the direction of what is your purpose during this time on earth.
